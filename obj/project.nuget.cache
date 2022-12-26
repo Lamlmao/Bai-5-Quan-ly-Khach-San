@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d0zlkiA+eyqh7JUKl4YsaQk0UTkg+wYtbQsDFw31qDE8KcIn8wTTvtg3d1k9l8UBpceu2J+ZPCvy6neAfWJ9FQ==",
+  "success": true,
+  "projectFilePath": "/home/hlam/oop/Bai5/Bai5.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
